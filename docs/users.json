@@ -1,0 +1,6 @@
+{
+  "_id": "ObjectId('5f5f3b3b7f3b9b001f3b3b7f')",
+  "name": "John Doe",
+  "email": "johndoe@email.com" ,
+  "password": "password"
+}
